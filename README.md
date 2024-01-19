@@ -21,3 +21,5 @@ pip install -r requirements.txt
 
 There's only one file (Jupyter Notebook) called 'assessment2.ipynb' which has all the analysis
 The dataset file is named 'app_data.xlsx'
+
+Or you can acces the [Github Repository](https://github.com/keshav-chauhan/assessmentprog2.git)
